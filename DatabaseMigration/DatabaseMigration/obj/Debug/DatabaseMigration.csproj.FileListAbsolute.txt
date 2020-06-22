@@ -87,3 +87,4 @@ C:\gitproj\DatabaseMigration\DatabaseMigration\DatabaseMigration\obj\Debug\Datab
 C:\gitproj\DatabaseMigration\DatabaseMigration\DatabaseMigration\obj\Debug\DatabaseMigration.Migrations.removegenderfromEmployeeTable.resources
 C:\gitproj\DatabaseMigration\DatabaseMigration\DatabaseMigration\obj\Debug\DatabaseMigration.Migrations.AddDataInEmployeeTable.resources
 C:\gitproj\DatabaseMigration\DatabaseMigration\DatabaseMigration\obj\Debug\DatabaseMigration.Migrations.AddIsPermentColumninEmployeeTable.resources
+C:\gitproj\DatabaseMigration\DatabaseMigration\DatabaseMigration\obj\Debug\DatabaseMigration.Migrations.CreateGetEmployeeProcedure.resources

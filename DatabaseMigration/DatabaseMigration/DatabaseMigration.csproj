@@ -225,6 +225,10 @@
     <Compile Include="Migrations\202006211600354_Add IsPerment Column in Employee Table.Designer.cs">
       <DependentUpon>202006211600354_Add IsPerment Column in Employee Table.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202006220409319_Create Get Employee Procedure.cs" />
+    <Compile Include="Migrations\202006220409319_Create Get Employee Procedure.Designer.cs">
+      <DependentUpon>202006220409319_Create Get Employee Procedure.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -260,7 +264,9 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -324,6 +330,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202006211600354_Add IsPerment Column in Employee Table.resx">
       <DependentUpon>202006211600354_Add IsPerment Column in Employee Table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202006220409319_Create Get Employee Procedure.resx">
+      <DependentUpon>202006220409319_Create Get Employee Procedure.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
